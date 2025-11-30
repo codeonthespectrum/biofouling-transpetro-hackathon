@@ -1,0 +1,12 @@
+# Bibliotecas principais
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+
+# Para análise e visualização (em notebooks)
+matplotlib
+seaborn
+missingno
+plotly
