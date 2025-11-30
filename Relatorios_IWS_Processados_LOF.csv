@@ -1,0 +1,28 @@
+Classe,Embarcação,Sigla,Data,Local de realização,Regiões do casco limpas,Condição geral da embarcação,Tipo de incrustação da embarcação,Condição do fundo chato,Tipo de incrustação do fundo chato,Condição do costado,Tipo de incrustação do costado,Condição do hélice,Tipo de incrustação do hélice,Data_Limpa,Ano,LOF_target,LOF_chato,LOF_costado,LOF_hélice,Tem_Craca_Geral,Tem_Limo_Geral,Tem_Craca_Helice,Tem_Limo_Helice
+Aframax,Daniel Pereira,DAP,2021-01-18,Salvador/BA,Nenhuma,20%,craca alga limo,20%,craca alga limo,20%,craca alga limo,70%,craca alga limo,2021-01-18,2021.0,3.0,3.0,3.0,4.0,1,1,1,1
+Suezmax,Victor Oliveira,VOL,2021-03-03,Salvador/BA,Nenhuma,30%,craca limo,30%,craca limo,30%,craca limo,90%,craca limo,2021-03-03,2021.0,3.0,3.0,3.0,4.0,1,1,1,1
+Suezmax,Henrique Alves,HAL,2021-07-21,Singapura,Limpeza geral no casco e propulsor,80%,craca alga,80%,craca alga,90%,craca alga,80%,craca alga,2021-07-21,2021.0,4.0,4.0,4.0,4.0,1,1,1,1
+Aframax,Carla Silva,CSI,2021-08-21,Angra dos Reis/RJ,Nenhuma,100%,alga limo,100%,alga limo,100%,alga limo,85%,alga limo calcarea,2021-08-21,2021.0,4.0,4.0,4.0,4.0,0,1,0,1
+Suezmax,Felipe Ribeiro,FRB,2021-09-04,Salvador/BA,Nenhuma,100%,craca alga limo,100%,craca alga limo,100%,craca alga limo,100%,craca alga limo calcarea,2021-09-04,2021.0,4.0,4.0,4.0,4.0,1,1,1,1
+Suezmax,Henrique Alves,HAL,2022-06-21,Baía de todos os santos/BA,Nenhuma,90%,craca limo,100%,craca limo,80%,craca limo,100%,craca limo,2022-06-21,2022.0,4.0,4.0,4.0,4.0,1,1,1,1
+Suezmax,Felipe Ribeiro,FRB,2022-12-31,Angra dos Reis/RJ,Nenhuma,80%,craca alga limo,80%,craca alga limo,80%,craca alga limo,80%,craca alga limo,2022-12-31,2022.0,4.0,4.0,4.0,4.0,1,1,1,1
+Suezmax,Giselle Carvalho,GIC,2023-01-10,Angra dos Reis/RJ,Nenhuma,10%,craca alga limo,10%,craca alga limo,10%,craca alga limo,100%,alga limo,2023-01-10,2023.0,2.0,2.0,2.0,4.0,1,1,0,1
+Suezmax,Raul Martins,RMA,2023-03-30,São Sebastião/SP,Nenhuma,10%,dura no fundo,10%,dura,Não consta no relatório,não consta no relatório,40%,mole dura,2023-03-30,2023.0,2.0,2.0,2.0,3.0,1,0,1,0
+Aframax,Rodrigo Pinheiro,RPI,2023-08-16,Fujaira/UAE,Limpeza geral no casco e propulsor,80%,craca alga limo,60%,craca limo,80%,craca alga limo,90%,craca alga limo calcarea,2023-08-16,2023.0,4.0,4.0,4.0,4.0,1,1,1,1
+Suezmax,Paulo Moura,PMO,2023-10-28,Angra dos Reis/RJ,Nenhuma,10%,mole,10%,mole,10%,mole,10%,mole dura,2023-10-28,2023.0,2.0,2.0,2.0,2.0,0,0,1,0
+Suezmax,Marcos Cavalcanti,MCA,2024-01-28,Angra dos Reis/RJ,Nenhuma,5%,mole,0%,Não Reportado,5%,mole,80%,mole,2024-01-28,2024.0,1.0,0.0,1.0,4.0,0,0,0,0
+Suezmax,Rafael Santos,RAS,2024-03-25,Singapura,Fundo chato e costado,45%,limo leve alga craca concentradas a ré dispersas no restante costado,20%,craca dispersas,45%,limo leve alga craca concentradas a ré dispersas no restante costado,Não avaliado,não avaliado,2024-03-25,2024.0,4.0,3.0,4.0,4.0,1,1,0,0
+Gaseiros 7k,Bruno Lima,BRL,2024-05-08,Ipojuca/PE,Nenhuma,60%,craca limo,60%,craca limo,60%,craca limo,60%,craca calcarea,2024-05-08,2024.0,4.0,4.0,4.0,4.0,1,1,1,0
+Gaseiros 7k,Fábio Santos,FSA,2024-08-10,Fortaleza/CE,Nenhuma,0%,Não Reportado,0%,Não Reportado,0%,Não Reportado,0%,Não Reportado,2024-08-10,2024.0,0.0,0.0,0.0,0.0,0,0,0,0
+Gaseiros 7k,Maria Valentina,MVA,2024-11-04,Fortaleza/CE,Nenhuma,0%,Não Reportado,0%,Não Reportado,0%,Não Reportado,0%,Não Reportado,2024-11-04,2024.0,0.0,0.0,0.0,0.0,0,0,0,0
+Suezmax,Raul Martins,RMA,2024-12-08,Gibraltar,"Caixas de mar, costado, leme e propulsor",50%,craca (50%) limo (10%),35%,craca,"50%, 10%",craca (50%) limo (10%),"10%, 100%, 80%",craca (10%) calcarea (100%) crescimento marinho (80%),2024-12-08,2024.0,4.0,3.0,4.0,4.0,1,1,1,0
+MR2,Eduardo Costa,EDC,2025-01-11,São Sebastião/SP,Nenhuma,10%,mole dura,10%,mole (5%) dura (5%),5%,mole,80%,mole,2025-01-11,2025.0,2.0,2.0,1.0,4.0,1,0,0,0
+Aframax,Renato Gomes,REG,2025-08-17,Rotterdam/NL,Fundo chato,  3 ,norman,  3 ,norman,  3 ,norman,,Não Reportado,2025-08-17,2025.0,3.0,3.0,3.0,3.0,0,0,0,0
+Suezmax,Rafael Santos,RAS,2025-08-23,Angra dos Reis/RJ,Fundo chato e costado de boreste,80%,mole,0%,Não Reportado,"80%, 15%",alga (80%) craca (15%),Não avaliado,não avaliado,2025-08-23,2025.0,4.0,0.0,4.0,4.0,0,0,0,0
+Aframax,Carla Silva,CSI,2025-08-29,Angra dos Reis/RJ,Nenhuma,100%,craca alga limo,100%,incrustacao dura mole,"100%, 20%",mole (100%) dura (20%),100%,mole dura,2025-08-29,2025.0,4.0,4.0,4.0,4.0,1,1,1,0
+Aframax,Renato Gomes,REG,2025-09-22,Angra dos Reis/RJ,Fundo chato,20%,mole,0%,Não Reportado,"20%, 5%",alga (20%) craca (5%),Não avaliado,não avaliado,2025-09-22,2025.0,3.0,0.0,3.0,3.0,0,0,0,0
+Suezmax,Henrique Alves,HAL,2025-09-25,Singapura,"Caixas de mar, leme e propulsor",Não avaliado,não avaliado,Não avaliado,não avaliado,Não avaliado,não avaliado,90%,craca alga limo,2025-09-25,2025.0,4.0,4.0,4.0,4.0,0,0,1,1
+Suezmax,Henrique Alves,HAL,2025-09-26,Singapura,Costados,Não avaliado,não avaliado,Não avaliado,não avaliado,55%,craca limo,Não avaliado,não avaliado,2025-09-26,2025.0,4.0,4.0,4.0,4.0,0,0,0,0
+Aframax,Carla Silva,CSI,2025-10-10,Angra dos Reis/RJ,Nenhuma,2,norman,3,norman,2,norman,Não avaliado,não avaliado,2025-10-10,2025.0,2.0,3.0,2.0,2.0,0,0,0,0
+MR2,Romario Silva,ROS,2025-11-10,São Sebastião/SP,Nenhuma,70%,mole dura,"60%, 10%",mole (60%) dura (10%),"70%, 20%",mole (70%) dura (20%),20%,mole,2025-11-10,2025.0,4.0,4.0,4.0,3.0,1,0,0,0
+Aframax,Renato Gomes,REG,,Niterói- RJ,Nenhuma,100%,dura mole,100%,dura mole,100%,dura mole,"30%, 70%",mole (30%) dura (70%),,,4.0,4.0,4.0,4.0,1,0,1,0
